@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro">Silahkan pilih jenis tanaman anda dan tanggal menanamnya pakde</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+    <string name="jagung">Jagung</string>
+    <string name="cabai">Cabai</string>
+    <string name="pick_date">Tanggal Menanam</string>
+    <string name="cek">Kapan panen nih?</string>
+    <string name="cancel">Batal</string>
+    <string name="pilih_tanggal">Pilih tanggal</string>
+    <string name="pilih">Pilih</string>
+    <string name="tanggal_dipilih">Tanggal dipilih</string>
+    <string name="kembali">Kembali</string>
+    <string name="cek_tanggal_panen">Cek Perkiraan Panen</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Hai saya %1$s, saya baru saja mencoba aplikasi "Sahabat Tani" untuk menghitung perkiraan panen tanaman %2$s saya. Ayo Coba sekarang!</string>
+    <string name="tanggal_panen">Tanaman anda diperkirakan panen pada: %1$s</string>
+    <string name="belum_bisa">Fitur Masih Dalam Pengembangan</string>
+    <string name="daftar_penyakit">Daftar Penyakit</string>
+    <string name="nama">Masukan nama</string>
+    <string name="versi">Versi: 1.0.0</string>
+    <string name="about_text">Sahabat Tani adalah aplikasi mobile yang dirancang untuk membantu petani dengan fitur memperkirakan waktu panen, mengidentifikasi penyakit tanaman, dan memberikan tips pertanian</string>
+</resources>

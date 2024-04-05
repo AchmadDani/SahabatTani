@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro">Please choose your plant type and planting date sir</string>
+    <string name="input_invalid">Can\'t be empty</string>
+    <string name="jagung">Corn</string>
+    <string name="cabai">Chillies</string>
+    <string name="pick_date">Planted Date</string>
+    <string name="cek">When harvest?</string>
+    <string name="cancel">Cancel</string>
+    <string name="pilih_tanggal">Choose date</string>
+    <string name="pilih">Choose</string>
+    <string name="tanggal_dipilih">Date Selected</string>
+    <string name="kembali">Back</string>
+    <string name="cek_tanggal_panen">Check Estimated Harvest</string>
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Hello i\'m %1$s, I just tried "Sahabat Tani" app to calculate the estimated harvest of my %2$s plants. Let\'s try it now! </string>
+    <string name="tanggal_panen">Your plant is expected to be harvested on: %1$s</string>
+    <string name="belum_bisa">Features Under Development</string>
+    <string name="daftar_penyakit">Diseases List</string>
+    <string name="nama">Input name</string>
+    <string name="versi">Version: 1.0.0</string>
+    <string name="about_text">Sahabat Tani is a mobile application designed to support farmers with features such as estimating harvest time, identifying crop diseases, and providing farming tips.</string>
+
+
+</resources>
